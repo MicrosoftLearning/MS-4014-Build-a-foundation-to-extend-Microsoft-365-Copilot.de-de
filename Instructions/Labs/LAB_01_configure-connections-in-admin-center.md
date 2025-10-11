@@ -56,7 +56,7 @@ Der nächste Schritt besteht darin, Berechtigungen für den Graph-Connector-Agen
 Als Nächstes müssen Sie im Azure-Portal ein Client-Secret für diese App festlegen.
 
 1. Kehren Sie zur Edge-Registerkarte „Azure-Portal“ zurück und navigieren Sie zu **Zertifikate und Geheimnisse**.
-1. Wählen Sie **+ Neuer geheimer Clientschlüssel** aus. Fügen Sie eine **Beschreibung** hinzu, indem Sie **Contoso-Dateien** eingeben. Sie können das Ablauffeld auf dem Standardwert „180 Tage" belassen.
+1. Wählen Sie **+ Neuer Client** Geheimnis. Fügen Sie eine **Beschreibung** hinzu, indem Sie **Contoso-Dateien** eingeben. Sie können das Ablauffeld auf dem Standardwert „180 Tage" belassen.
 2. Wählen Sie **Hinzufügen**.
 3. Kopieren Sie das Feld **Wert** des stillen Geheimnisses.
 1. Kehren Sie zur Graph Connector Agenten-App zurück und fügen Sie den Wert in das Feld **Anwendungskennwort (Clientgeheimnis)** der GCA-Installations-App ein.
