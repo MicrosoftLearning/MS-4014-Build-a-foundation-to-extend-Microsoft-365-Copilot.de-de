@@ -1,3 +1,5 @@
+**⚠️ This GitHub repo will retire on 30th December 2025.**
+
 # MS-4014: Erstellen einer Grundlage für den Aufbau von KI-Agents und die Erweiterung von Microsoft 365 Copilot
 
 **Sind Sie ein MCT?** – Lesen Sie unser [GitHub-Benutzerhandbuch für MCTs](https://microsoftlearning.github.io/MCT-User-Guide/).
